@@ -1,0 +1,271 @@
+
+Pinging pc0171784.danfoss.net [10.19.97.111] with 32 bytes of data:
+Reply from 10.19.97.111: bytes=32 time=76ms TTL=117
+Reply from 10.19.97.111: bytes=32 time=77ms TTL=117
+Reply from 10.19.97.111: bytes=32 time=77ms TTL=117
+Reply from 10.19.97.111: bytes=32 time=77ms TTL=117
+
+Ping statistics for 10.19.97.111:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 76ms, Maximum = 77ms, Average = 76ms
+
+Pinging pc0171845.danfoss.net [10.19.114.80] with 32 bytes of data:
+Reply from 10.19.114.80: bytes=32 time=75ms TTL=117
+Reply from 10.19.114.80: bytes=32 time=76ms TTL=117
+Reply from 10.19.114.80: bytes=32 time=76ms TTL=117
+Reply from 10.19.114.80: bytes=32 time=84ms TTL=117
+
+Ping statistics for 10.19.114.80:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 84ms, Average = 77ms
+
+Pinging pc0171847.danfoss.net [10.19.113.69] with 32 bytes of data:
+Reply from 10.19.113.69: bytes=32 time=90ms TTL=117
+Reply from 10.19.113.69: bytes=32 time=90ms TTL=117
+Reply from 10.19.113.69: bytes=32 time=88ms TTL=117
+Reply from 10.19.113.69: bytes=32 time=88ms TTL=117
+
+Ping statistics for 10.19.113.69:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 88ms, Maximum = 90ms, Average = 89ms
+
+Pinging pc0171848.danfoss.net [10.19.114.105] with 32 bytes of data:
+Reply from 10.19.114.105: bytes=32 time=76ms TTL=117
+Reply from 10.19.114.105: bytes=32 time=75ms TTL=117
+Reply from 10.19.114.105: bytes=32 time=77ms TTL=117
+Reply from 10.19.114.105: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.114.105:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 77ms, Average = 75ms
+
+Pinging pc0171849.danfoss.net [10.19.115.72] with 32 bytes of data:
+Reply from 10.19.115.72: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.72: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.72: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.72: bytes=32 time=77ms TTL=117
+
+Ping statistics for 10.19.115.72:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 77ms, Average = 75ms
+
+Pinging pc0171850.danfoss.net [10.19.115.105] with 32 bytes of data:
+Reply from 10.19.115.105: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.105: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.105: bytes=32 time=74ms TTL=117
+Reply from 10.19.115.105: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.115.105:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233430.danfoss.net [10.19.115.90] with 32 bytes of data:
+Reply from 10.19.115.90: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.90: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.90: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.90: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.115.90:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233431.danfoss.net [10.19.115.81] with 32 bytes of data:
+Reply from 10.19.115.81: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.81: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.81: bytes=32 time=74ms TTL=117
+Reply from 10.19.115.81: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.115.81:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233433.danfoss.net [10.19.115.95] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 10.19.115.95:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging pc0233434.danfoss.net [10.19.115.68] with 32 bytes of data:
+Reply from 10.19.115.68: bytes=32 time=90ms TTL=117
+Reply from 10.19.115.68: bytes=32 time=88ms TTL=117
+Reply from 10.19.115.68: bytes=32 time=90ms TTL=117
+Reply from 10.19.115.68: bytes=32 time=88ms TTL=117
+
+Ping statistics for 10.19.115.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 88ms, Maximum = 90ms, Average = 89ms
+
+Pinging pc0233438.danfoss.net [10.19.117.90] with 32 bytes of data:
+Reply from 10.19.117.90: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.90: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.90: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.90: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.117.90:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 75ms, Average = 75ms
+
+Pinging pc0233439.danfoss.net [10.19.115.69] with 32 bytes of data:
+Reply from 10.19.115.69: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.69: bytes=32 time=76ms TTL=117
+Reply from 10.19.115.69: bytes=32 time=75ms TTL=117
+Reply from 10.19.115.69: bytes=32 time=76ms TTL=117
+
+Ping statistics for 10.19.115.69:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233440.danfoss.net [10.19.117.76] with 32 bytes of data:
+Reply from 10.19.117.76: bytes=32 time=76ms TTL=117
+Reply from 10.19.117.76: bytes=32 time=74ms TTL=117
+Reply from 10.19.117.76: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.76: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.117.76:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233442.danfoss.net [10.19.117.85] with 32 bytes of data:
+Reply from 10.19.117.85: bytes=32 time=76ms TTL=117
+Reply from 10.19.117.85: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.85: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.85: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.117.85:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233443.danfoss.net [10.19.117.84] with 32 bytes of data:
+Reply from 10.19.117.84: bytes=32 time=79ms TTL=117
+Reply from 10.19.117.84: bytes=32 time=74ms TTL=117
+Reply from 10.19.117.84: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.84: bytes=32 time=76ms TTL=117
+
+Ping statistics for 10.19.117.84:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 79ms, Average = 76ms
+
+Pinging pc0233444.danfoss.net [10.19.117.87] with 32 bytes of data:
+Reply from 10.19.117.87: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.87: bytes=32 time=76ms TTL=117
+Reply from 10.19.117.87: bytes=32 time=76ms TTL=117
+Reply from 10.19.117.87: bytes=32 time=74ms TTL=117
+
+Ping statistics for 10.19.117.87:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233445.danfoss.net [10.19.117.86] with 32 bytes of data:
+Reply from 10.19.117.86: bytes=32 time=89ms TTL=117
+Reply from 10.19.117.86: bytes=32 time=89ms TTL=117
+Reply from 10.19.117.86: bytes=32 time=90ms TTL=117
+Reply from 10.19.117.86: bytes=32 time=90ms TTL=117
+
+Ping statistics for 10.19.117.86:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 89ms, Maximum = 90ms, Average = 89ms
+
+Pinging pc0233446.danfoss.net [10.19.114.78] with 32 bytes of data:
+Reply from 10.19.114.78: bytes=32 time=90ms TTL=117
+Reply from 10.19.114.78: bytes=32 time=89ms TTL=117
+Reply from 10.19.114.78: bytes=32 time=89ms TTL=117
+Reply from 10.19.114.78: bytes=32 time=90ms TTL=117
+
+Ping statistics for 10.19.114.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 89ms, Maximum = 90ms, Average = 89ms
+
+Pinging pc0233447.danfoss.net [10.19.97.100] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 10.19.97.100:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging pc0233448.danfoss.net [10.19.114.106] with 32 bytes of data:
+Reply from 10.19.114.106: bytes=32 time=75ms TTL=117
+Reply from 10.19.114.106: bytes=32 time=76ms TTL=117
+Reply from 10.19.114.106: bytes=32 time=74ms TTL=117
+Reply from 10.19.114.106: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.114.106:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0233449.danfoss.net [10.19.113.68] with 32 bytes of data:
+Reply from 10.19.113.68: bytes=32 time=74ms TTL=117
+Reply from 10.19.113.68: bytes=32 time=77ms TTL=117
+Reply from 10.19.113.68: bytes=32 time=75ms TTL=117
+Reply from 10.19.113.68: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.113.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 77ms, Average = 75ms
+
+Pinging pc0233450.danfoss.net [10.19.114.110] with 32 bytes of data:
+Reply from 10.19.114.110: bytes=32 time=95ms TTL=117
+Reply from 10.19.114.110: bytes=32 time=97ms TTL=117
+Reply from 10.19.114.110: bytes=32 time=89ms TTL=117
+Reply from 10.19.114.110: bytes=32 time=89ms TTL=117
+
+Ping statistics for 10.19.114.110:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 89ms, Maximum = 97ms, Average = 92ms
+
+Pinging pc0233456.danfoss.net [10.19.97.116] with 32 bytes of data:
+Reply from 10.19.97.116: bytes=32 time=75ms TTL=117
+Reply from 10.19.97.116: bytes=32 time=75ms TTL=117
+Reply from 10.19.97.116: bytes=32 time=76ms TTL=117
+Reply from 10.19.97.116: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.97.116:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
+
+Pinging pc0236447.danfoss.net [10.19.117.82] with 32 bytes of data:
+Reply from 10.19.117.82: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.82: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.82: bytes=32 time=74ms TTL=117
+Reply from 10.19.117.82: bytes=32 time=74ms TTL=117
+
+Ping statistics for 10.19.117.82:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 75ms, Average = 74ms
+
+Pinging pc0236448.danfoss.net [10.19.117.80] with 32 bytes of data:
+Reply from 10.19.117.80: bytes=32 time=74ms TTL=117
+Reply from 10.19.117.80: bytes=32 time=75ms TTL=117
+Reply from 10.19.117.80: bytes=32 time=74ms TTL=117
+Reply from 10.19.117.80: bytes=32 time=75ms TTL=117
+
+Ping statistics for 10.19.117.80:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 75ms, Average = 74ms

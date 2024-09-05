@@ -1,0 +1,9 @@
+In order to uninstall Store product just use:
+
+Get-AppxPackage Microsoft.Windows.Photos | Remove-AppxPackage
+And then install it manually.
+
+
+To view all programs for Particular user:
+
+Get-AppxPackage –User %username%| Name,PackageFullName
