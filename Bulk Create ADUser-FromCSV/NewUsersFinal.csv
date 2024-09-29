@@ -1,0 +1,11 @@
+﻿FirstName;Initials;Lastname;Username;Email;StreetAddress;City;ZipCode;State;Country;Department;Password;Telephone;JobTitle;Company;OU
+Max;MF;Fraser;Max.Fraser;Max.Fraser@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;Q+/7_]Tc;+44123456780;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Piersen;PB;Bower;Piers.Bower;Piers.Bower@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;RW-cn3N);+44123456781;Manager;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Kyle;KD;Davidson;Kylie.Davidson;Kylie.Davidson@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;3VKr2.Wm;+44123456782;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Richardson;RG;Grant;Richard.Grant;Richard.Grant@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;)N3ZYJvS;+44123456783;Teamleader;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Borisek;BC;Campbell;Boris.Campbell;Boris.Campbell@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;9ZesQ]pq;+44123456784;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Nicholas;NM;Murray;Nicholas.Murray;Nicholas.Murray@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;KX*rB72p;+44123456785;Manager;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Leonardo;LC;Clark;Leonard.Clark;Leonard.Clark@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;AJ+(}c3$;+44123456786;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Ruthe;RD;Dickens;Ruth.Dickens;Ruth.Dickens@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;Jgv4{Bb$;+44123456787;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Jonathane;JF;Fisher;Jonathan.Fisher;Johnathan.Fisher@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;u*PQJAx5;+44123456788;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
+Graces;GR;Rees;Grace.Rees;Grace.Rees@fcorp.com;21 Baker St;London;NW1 6XE;;GB;IT;w([6p&Kt;+44123456789;Engineer;fcorp;OU=IT,OU=White_Collars,OU=Users_OU,DC=scibor,DC=net
